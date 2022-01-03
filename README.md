@@ -1,6 +1,6 @@
-# PIC-tutorials
+# Gooligum PIC Tutorials
 
-Here are the Gooligum PIC Tutorials, previously hosted at www.gooligum.com.au, now all available for free.
+Here are the Gooligum baseline, midrange and enhanced midrange PIC Tutorials, previously hosted at www.gooligum.com.au, now all available for free.
 
 The tutorials are being made available under the Creative Commons Attribution-ShareAlike 4.0 International license, which essentially means that they are free to use and share, provided that you attribute the original creator (me / Gooligum).  See LICENSE.txt for details.
 
