@@ -2,7 +2,7 @@
 
 Here are the Gooligum baseline, midrange and enhanced midrange PIC Tutorials, previously hosted at www.gooligum.com.au, now all available for free.
 
-The design files for the training board (designed for use with these tutorials) is available at github.com/gooligumelec/Baseline-PIC-training-board
+The design files for the training board (designed for use with these tutorials) is available at https://github.com/gooligumelec/Baseline-PIC-training-board
 
 The tutorials are being made available under the Creative Commons Attribution-ShareAlike 4.0 International license, which essentially means that they are free to use and share, provided that you attribute the original creator (me / Gooligum).  See LICENSE.txt for details.
 
